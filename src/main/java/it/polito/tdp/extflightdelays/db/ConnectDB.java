@@ -17,7 +17,7 @@ public class ConnectDB {
 			HikariConfig config = new HikariConfig();
 			config.setJdbcUrl(jdbcURL);
 			config.setUsername("root");
-			config.setPassword("rootroot");
+			config.setPassword("And13rea4");
 			
 			// configurazione MySQL
 			config.addDataSourceProperty("cachePrepStmts", "true");
